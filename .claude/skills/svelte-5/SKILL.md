@@ -203,6 +203,6 @@ Evidence signals:
 ## Continual improvement
 
 File drift, gaps, or corrections against this repository at
-https://github.com/NeuralEmpowerment/cross-framework-ui-design-system (open an issue
+https://github.com/syntropic137/cross-framework-ui-design-system (open an issue
 or capture a bead with `br create`). Svelte ships fast: when a rune or API changes,
 update `references/` and the dated section above, leaving the Outcomes intact.

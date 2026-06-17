@@ -201,7 +201,7 @@ Evidence signals:
 ## Continual improvement
 
 File drift, gaps, or corrections against this repository at
-https://github.com/NeuralEmpowerment/cross-framework-ui-design-system (open an issue or
+https://github.com/syntropic137/cross-framework-ui-design-system (open an issue or
 capture a bead with `br create`). The CSS platform moves: when a feature's Baseline
 status changes, update `references/modern-css-toolkit.md` and the dated section above,
 leaving the Outcomes intact.
